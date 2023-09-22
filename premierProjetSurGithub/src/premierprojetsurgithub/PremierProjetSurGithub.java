@@ -6,7 +6,7 @@ package premierprojetsurgithub;
 
 /**
  *
- * @author iut
+ * @author Emma Cunienq
  */
 public class PremierProjetSurGithub {
 
