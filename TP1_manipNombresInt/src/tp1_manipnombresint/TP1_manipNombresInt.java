@@ -23,7 +23,7 @@ public class TP1_manipNombresInt {
         int nb1 = demande1.nextInt(); //récupération de l'entier n°1
         
         Scanner demande2 = new Scanner(System.in);
-        System.out.println("Entrer le premier nombre :");
+        System.out.println("Entrer le deuxième nombre :");
         int nb2 = demande2.nextInt(); //récupération de l'entier n°2
         
         //Affichage des nombres
@@ -39,7 +39,7 @@ public class TP1_manipNombresInt {
         //Affichage du produit
         System.out.println("produit : " + (nb2 * nb1));
         
-        //Affichage du quutient entier et reste
+        //Affichage du quotient entier et reste
         System.out.println("quotient : " + (nb1 / nb2));
         System.out.println("reste : " + (nb1 % nb2));
         
